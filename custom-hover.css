@@ -1,0 +1,20 @@
+/* Category Hover */
+/* 1st Child */
+.cards-for-custom-hover .agni-block-icon-card:nth-child(1):hover {
+	background-color: #DFE6FE !important;
+	border-color: #DFE6FE;
+}
+
+.cards-for-custom-hover .agni-block-icon-card:nth-child(1):hover .agni-block-icon-card-icon__container {
+	background-color: #5F81FB !important;
+	border-color: #5F81FB;
+}
+
+.cards-for-custom-hover .agni-block-icon-card:nth-child(1):hover .agni-block-icon-svg__file .ionicon {
+	color: #fff !important;
+}
+
+.cards-for-custom-hover .agni-block-icon-card:nth-child(1):hover path {
+	/* Uncomment if path color customization is needed */
+	/* color: #fff !important; */
+}
